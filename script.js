@@ -79,3 +79,16 @@ listar.addEventListener("click", (e) => {
       });
    }
 });
+
+// Prueba de buscador
+
+// let cadena = "Esto es una prueba";
+// let palabra = "prueba";
+
+// let index = cadena.indexOf(palabra);
+
+// if(index >= 0) {
+//     console.log("la palabra existe dentro de la cadena y se encuentra en la posición " + index);
+// } else {
+//     console.log("la palabra no existe dentro de la cadena");
+// }
